@@ -1,0 +1,301 @@
+customer_id,name,churned,churn_prob,top_reasons
+VN-1001,Ira Reyes,1,0.5817,Last login: 38 days ago; Monthly bill: $90.66; Contract: Month-to-month
+VN-1002,Liam Bakshi,0,0.2178,Tenure: 2 mo; Monthly bill: $85.91; Contract: Month-to-month
+VN-1003,Meera Novak,0,0.1253,Monthly bill: $89.43; Late payments (6m): 2
+VN-1004,Nina Petrov,0,0.2295,Contract: Month-to-month; Tech support: No; Monthly bill: $80.81
+VN-1005,Aarav Novak,0,0.3477,Contract: Month-to-month; Tech support: No; Monthly bill: $75.36
+VN-1006,Maya Fischer,0,0.0607,Monthly bill: $85.96; Tenure: 16 mo
+VN-1007,Tariq Ali,0,0.2979,Tenure: 1 mo; Payment method: Credit card (auto); Contract: Month-to-month
+VN-1008,Leah Ali,1,0.467,Tenure: 2 mo; Payment method: Credit card (auto); Contract: Month-to-month
+VN-1009,Noah Larsen,0,0.0787,Payment method: Credit card (auto); Tech support: No
+VN-1010,Ruth Silva,1,0.5309,Tenure: 4 mo; Support tickets (90d): 3; Payment method: Credit card (auto)
+VN-1011,Nina Bose,0,0.3546,Tenure: 10 mo; Contract: Month-to-month; Tech support: No
+VN-1012,Maya Bose,0,0.1705,Payment method: Credit card (auto); Contract: Month-to-month; Monthly bill: $75.65
+VN-1013,Hana Mehta,0,0.1644,Tenure: 12 mo; Tech support: No; Last login: 18 days ago
+VN-1014,Felix Silva,0,0.4689,Contract: Month-to-month; Tech support: No; Tenure: 16 mo
+VN-1015,Anika Rossi,1,0.6172,Tenure: 4 mo; Last login: 26 days ago; Contract: Month-to-month
+VN-1016,Noah Silva,0,0.0159,
+VN-1017,Dev Costa,0,0.1266,Late payments (6m): 3; Monthly bill: $77.64
+VN-1018,Dev Reyes,0,0.2298,Contract: Month-to-month; Tech support: No
+VN-1019,Owen Gill,0,0.0453,Tech support: No
+VN-1020,Lucas Bakshi,1,0.2913,Tenure: 6 mo; Last login: 22 days ago; Contract: Month-to-month
+VN-1021,Jonas Gill,0,0.1109,Tech support: No; Support tickets (90d): 2; Monthly bill: $73.07
+VN-1022,Kian Novak,1,0.2871,Tenure: 1 mo; Contract: Month-to-month; Tech support: No
+VN-1023,Zara Costa,0,0.0705,Payment method: Credit card (auto); Support tickets (90d): 2; Monthly bill: $73.72
+VN-1024,Hana Ito,0,0.0783,Contract: Month-to-month
+VN-1025,Meera Ito,1,0.1639,Contract: Month-to-month; Support tickets (90d): 2
+VN-1026,Zara Rossi,0,0.0247,Tech support: No
+VN-1027,Owen Petrov,0,0.3625,Contract: Month-to-month; Tenure: 13 mo; Tech support: No
+VN-1028,Elena Dhillon,0,0.0755,Tech support: No; Tenure: 17 mo
+VN-1029,Jonas Dhillon,0,0.0863,Last login: 53 days ago; Monthly bill: $81.57
+VN-1030,Arjun Dhillon,0,0.3285,Late payments (6m): 3; Contract: Month-to-month; Tenure: 15 mo
+VN-1031,Jonas Meyer,0,0.2741,Contract: Month-to-month; Tech support: No; Support tickets (90d): 2
+VN-1032,Aarav Gill,0,0.221,Late payments (6m): 2; Payment method: Credit card (auto); Contract: Month-to-month
+VN-1033,Tara Rossi,0,0.2103,Tenure: 9 mo; Monthly bill: $85.94; Contract: Month-to-month
+VN-1034,Tariq Rossi,0,0.0445,Payment method: Credit card (auto); Tech support: No
+VN-1035,Sofia Reyes,0,0.1482,Contract: Month-to-month; Monthly bill: $78.51; Support tickets (90d): 2
+VN-1036,Owen Larsen,0,0.2949,Tenure: 1 mo; Payment method: Credit card (auto); Contract: Month-to-month
+VN-1037,Elena Meyer,1,0.1813,Tenure: 9 mo; Tech support: No
+VN-1038,Ethan Khan,1,0.2967,Payment method: Credit card (auto); Contract: Month-to-month; Tech support: No
+VN-1039,Owen Dhillon,0,0.123,Tech support: No; Support tickets (90d): 2; Tenure: 18 mo
+VN-1040,Zara Gill,0,0.2437,Tenure: 9 mo; Contract: Month-to-month; Tech support: No
+VN-1041,Meera Sharma,0,0.296,Tenure: 7 mo; Contract: Month-to-month; Tech support: No
+VN-1042,Sana Reyes,0,0.167,Tenure: 3 mo; Contract: Month-to-month; Monthly bill: $78.25
+VN-1043,Priya Rossi,1,0.6453,Payment method: Credit card (auto); Contract: Month-to-month; Tech support: No
+VN-1044,Mateo Ito,1,0.7556,Support tickets (90d): 4; Tenure: 5 mo; Late payments (6m): 2
+VN-1045,Hana Gill,0,0.0375,Monthly bill: $86.95; Payment method: Credit card (auto)
+VN-1046,Sana Nguyen,0,0.1621,Tech support: No; Support tickets (90d): 2
+VN-1047,Mateo Mehta,0,0.4683,Tenure: 2 mo; Late payments (6m): 2; Monthly bill: $85.81
+VN-1048,Anika Larsen,0,0.4131,Contract: Month-to-month; Tenure: 13 mo; Tech support: No
+VN-1049,Priya Costa,1,0.413,Monthly bill: $83.40; Payment method: Credit card (auto); Contract: Month-to-month
+VN-1050,Tariq Gill,0,0.0283,
+VN-1051,Jonas Nguyen,0,0.4001,Contract: Month-to-month; Tech support: No; Support tickets (90d): 2
+VN-1052,Meera Bakshi,0,0.0197,Tech support: No
+VN-1053,Kian Reyes,1,0.5228,Tenure: 8 mo; Contract: Month-to-month; Tech support: No
+VN-1054,Noah Nguyen,1,0.4355,Payment method: Credit card (auto); Contract: Month-to-month; Tech support: No
+VN-1055,Noah Mehta,0,0.0753,Payment method: Credit card (auto); Tech support: No; Monthly bill: $75.55
+VN-1056,Anika Okafor,0,0.5447,Support tickets (90d): 4; Last login: 26 days ago; Payment method: Credit card (auto)
+VN-1057,Arjun Reyes,0,0.535,Tenure: 12 mo; Payment method: Credit card (auto); Contract: Month-to-month
+VN-1058,Ira Mehta,0,0.453,Last login: 25 days ago; Payment method: Credit card (auto); Contract: Month-to-month
+VN-1059,Zara Ito,0,0.2022,Contract: Month-to-month; Tech support: No
+VN-1060,Leah Costa,0,0.1855,Tenure: 1 mo; Payment method: Credit card (auto); Contract: Month-to-month
+VN-1061,Dev Gill,1,0.7566,Late payments (6m): 4; Contract: Month-to-month; Tech support: No
+VN-1062,Kabir Gill,0,0.0281,Late payments (6m): 2; Support tickets (90d): 2
+VN-1063,Anika Novak,1,0.29,Tenure: 12 mo; Payment method: Credit card (auto); Contract: Month-to-month
+VN-1064,Aarav Bakshi,1,0.3851,Tenure: 12 mo; Contract: Month-to-month; Tech support: No
+VN-1065,Kabir Bakshi,0,0.1132,Monthly bill: $79.99; Last login: 18 days ago
+VN-1066,Leah Mehta,1,0.5274,Contract: Month-to-month; Tech support: No; Tenure: 14 mo
+VN-1067,Arjun Costa,0,0.2639,Payment method: Credit card (auto); Contract: Month-to-month; Tech support: No
+VN-1068,Ira Bose,0,0.4987,Support tickets (90d): 7; Tech support: No; Last login: 17 days ago
+VN-1069,Sana Okafor,0,0.0374,Tech support: No; Monthly bill: $73.44
+VN-1070,Tara Meyer,0,0.4065,Payment method: Credit card (auto); Contract: Month-to-month; Tech support: No
+VN-1071,Tariq Novak,0,0.1211,Payment method: Credit card (auto); Tenure: 13 mo; Tech support: No
+VN-1072,Ethan Meyer,1,0.4948,Late payments (6m): 2; Monthly bill: $85.73; Contract: Month-to-month
+VN-1073,Priya Nguyen,0,0.0823,Contract: Month-to-month
+VN-1074,Liam Silva,1,0.2991,Last login: 25 days ago; Payment method: Credit card (auto); Contract: Month-to-month
+VN-1075,Dev Bose,0,0.0434,Contract: Month-to-month
+VN-1076,Kian Fischer,0,0.1706,Tenure: 4 mo; Monthly bill: $88.71
+VN-1077,Tara Gill,0,0.2089,Contract: Month-to-month; Tech support: No; Support tickets (90d): 2
+VN-1078,Kian Petrov,0,0.0659,Late payments (6m): 3; Tech support: No; Support tickets (90d): 2
+VN-1079,Noah Gill,0,0.1488,Payment method: Credit card (auto); Contract: Month-to-month; Monthly bill: $74.69
+VN-1080,Chloe Bakshi,0,0.1477,Payment method: Credit card (auto); Contract: Month-to-month
+VN-1081,Owen Mehta,0,0.3555,Tenure: 12 mo; Payment method: Credit card (auto); Contract: Month-to-month
+VN-1082,Aarav Bose,0,0.1242,Tech support: No
+VN-1083,Nina Khan,0,0.063,Last login: 25 days ago; Tech support: No; Monthly bill: $73.35
+VN-1084,Kabir Petrov,1,0.474,Tenure: 8 mo; Payment method: Credit card (auto); Contract: Month-to-month
+VN-1085,Sofia Ali,0,0.4247,Tenure: 5 mo; Payment method: Credit card (auto); Contract: Month-to-month
+VN-1086,Priya Gill,1,0.6161,Support tickets (90d): 3; Monthly bill: $85.99; Payment method: Credit card (auto)
+VN-1087,Ethan Gill,1,0.1638,Tenure: 11 mo; Payment method: Credit card (auto); Tech support: No
+VN-1088,Nina Larsen,0,0.079,Payment method: Credit card (auto); Contract: Month-to-month
+VN-1089,Felix Sharma,0,0.5643,Support tickets (90d): 3; Tenure: 10 mo; Last login: 22 days ago
+VN-1090,Arjun Meyer,0,0.2534,Contract: Month-to-month; Tech support: No
+VN-1091,Felix Rossi,1,0.274,Tenure: 9 mo; Contract: Month-to-month; Tech support: No
+VN-1092,Ira Petrov,0,0.0986,Tenure: 12 mo; Tech support: No
+VN-1093,Owen Sharma,0,0.1763,Monthly bill: $82.81; Tenure: 13 mo; Last login: 18 days ago
+VN-1094,Zara Mehta,0,0.4755,Late payments (6m): 2; Contract: Month-to-month; Tech support: No
+VN-1095,Liam Petrov,0,0.0811,Monthly bill: $89.72; Support tickets (90d): 3
+VN-1096,Tariq Costa,0,0.2581,Late payments (6m): 3; Tech support: No
+VN-1097,Zara Petrov,0,0.0657,Tech support: No
+VN-1098,Felix Petrov,0,0.1153,Support tickets (90d): 4; Monthly bill: $82.59; Tech support: No
+VN-1099,Ira Okafor,0,0.1473,Contract: Month-to-month; Tech support: No
+VN-1100,Meera Costa,1,0.2071,Payment method: Credit card (auto); Tech support: No
+VN-1101,Omar Costa,0,0.1376,Payment method: Credit card (auto); Contract: Month-to-month; Monthly bill: $74.97
+VN-1102,Kabir Costa,0,0.0723,Contract: Month-to-month; Tenure: 15 mo; Monthly bill: $76.15
+VN-1103,Mateo Bose,0,0.2174,Tenure: 10 mo; Tech support: No
+VN-1104,Noah Costa,0,0.1576,Payment method: Credit card (auto); Tech support: No
+VN-1105,Liam Novak,1,0.2232,Tenure: 4 mo; Tech support: No; Monthly bill: $79.71
+VN-1106,Leah Novak,0,0.3947,Contract: Month-to-month; Tech support: No; Tenure: 16 mo
+VN-1107,Tara Dhillon,0,0.2462,Late payments (6m): 2; Contract: Month-to-month; Tech support: No
+VN-1108,Arjun Larsen,0,0.5059,Support tickets (90d): 3; Contract: Month-to-month; Tech support: No
+VN-1109,Felix Khan,0,0.0798,Support tickets (90d): 3; Tech support: No
+VN-1110,Sofia Ito,0,0.2432,Last login: 22 days ago; Contract: Month-to-month; Tech support: No
+VN-1111,Elena Ito,0,0.2201,Contract: Month-to-month; Tech support: No
+VN-1112,Meera Dhillon,1,0.5053,Tenure: 3 mo; Monthly bill: $95.24; Contract: Month-to-month
+VN-1113,Nina Bakshi,1,0.4585,Tenure: 7 mo; Contract: Month-to-month; Tech support: No
+VN-1114,Priya Larsen,0,0.1234,Late payments (6m): 2; Tech support: No; Last login: 20 days ago
+VN-1115,Aarav Petrov,0,0.0412,Support tickets (90d): 2
+VN-1116,Jonas Silva,0,0.3114,Tenure: 2 mo; Payment method: Credit card (auto); Contract: Month-to-month
+VN-1117,Owen Silva,0,0.5461,Late payments (6m): 4; Contract: Month-to-month; Tech support: No
+VN-1118,Liam Fischer,1,0.154,Tenure: 9 mo; Payment method: Credit card (auto); Contract: Month-to-month
+VN-1119,Kabir Okafor,0,0.2597,Last login: 25 days ago; Support tickets (90d): 3; Tenure: 12 mo
+VN-1120,Ira Rossi,0,0.2215,Monthly bill: $90.18; Contract: Month-to-month
+VN-1121,Leah Larsen,1,0.7953,Late payments (6m): 4; Tenure: 9 mo; Contract: Month-to-month
+VN-1122,Owen Bakshi,1,0.2922,Support tickets (90d): 4; Late payments (6m): 2; Contract: Month-to-month
+VN-1123,Tara Mehta,1,0.3994,Tenure: 8 mo; Last login: 23 days ago; Payment method: Credit card (auto)
+VN-1124,Ruth Novak,0,0.0203,Support tickets (90d): 2
+VN-1125,Aarav Ito,0,0.7214,Last login: 34 days ago; Tenure: 5 mo; Contract: Month-to-month
+VN-1126,Lucas Costa,0,0.3455,Late payments (6m): 3; Tenure: 11 mo; Tech support: No
+VN-1127,Kabir Khan,1,0.705,Last login: 28 days ago; Support tickets (90d): 3; Contract: Month-to-month
+VN-1128,Omar Gill,0,0.0607,Contract: Month-to-month; Tech support: No
+VN-1129,Zara Silva,0,0.261,Tenure: 1 mo; Contract: Month-to-month; Tech support: No
+VN-1130,Felix Dhillon,0,0.4286,Tenure: 10 mo; Payment method: Credit card (auto); Contract: Month-to-month
+VN-1131,Maya Nguyen,0,0.0835,Tech support: No; Monthly bill: $71.86
+VN-1132,Omar Fischer,0,0.4907,Tenure: 2 mo; Last login: 25 days ago; Support tickets (90d): 3
+VN-1133,Kabir Novak,0,0.1127,Late payments (6m): 2; Contract: Month-to-month
+VN-1134,Felix Ali,0,0.3459,Late payments (6m): 3; Payment method: Credit card (auto); Tech support: No
+VN-1135,Meera Ali,0,0.0577,Payment method: Credit card (auto); Tech support: No; Monthly bill: $79.23
+VN-1136,Nina Nguyen,0,0.0845,Late payments (6m): 2; Last login: 23 days ago
+VN-1137,Lucas Reyes,0,0.0785,Tech support: No; Monthly bill: $72.14
+VN-1138,Hana Costa,0,0.1644,Contract: Month-to-month; Tech support: No; Support tickets (90d): 2
+VN-1139,Tara Ali,0,0.0209,Late payments (6m): 2; Last login: 15 days ago
+VN-1140,Owen Novak,0,0.1654,Late payments (6m): 3; Tech support: No
+VN-1141,Sana Gill,0,0.1093,Payment method: Credit card (auto); Contract: Month-to-month; Support tickets (90d): 2
+VN-1142,Lucas Ali,0,0.0509,Contract: Month-to-month; Support tickets (90d): 2
+VN-1143,Noah Petrov,0,0.261,Support tickets (90d): 3; Monthly bill: $83.90; Contract: Month-to-month
+VN-1144,Chloe Fischer,0,0.0054,
+VN-1145,Ruth Nguyen,1,0.3101,Tenure: 11 mo; Tech support: No; Monthly bill: $76.12
+VN-1146,Sofia Novak,1,0.1956,Late payments (6m): 2; Tech support: No; Support tickets (90d): 2
+VN-1147,Chloe Sharma,0,0.0788,Support tickets (90d): 4
+VN-1148,Kian Larsen,0,0.2266,Contract: Month-to-month; Tech support: No
+VN-1149,Sana Ali,0,0.0825,Monthly bill: $74.64
+VN-1150,Nina Meyer,0,0.5551,Tenure: 12 mo; Payment method: Credit card (auto); Contract: Month-to-month
+VN-1151,Zara Reyes,0,0.4342,Late payments (6m): 3; Last login: 23 days ago; Contract: Month-to-month
+VN-1152,Zara Bose,1,0.3576,Monthly bill: $87.73; Contract: Month-to-month; Tenure: 14 mo
+VN-1153,Owen Costa,0,0.1957,Payment method: Credit card (auto); Contract: Month-to-month; Tech support: No
+VN-1154,Nina Okafor,1,0.4059,Tenure: 4 mo; Support tickets (90d): 3; Contract: Month-to-month
+VN-1155,Mateo Novak,0,0.0913,Support tickets (90d): 3; Tenure: 11 mo; Monthly bill: $72.93
+VN-1156,Mateo Nguyen,0,0.0799,Monthly bill: $81.66; Tech support: No
+VN-1157,Sofia Petrov,1,0.5119,Payment method: Credit card (auto); Contract: Month-to-month; Tech support: No
+VN-1158,Elena Larsen,0,0.048,Payment method: Credit card (auto); Tenure: 18 mo
+VN-1159,Omar Reyes,1,0.381,Tenure: 7 mo; Contract: Month-to-month; Tech support: No
+VN-1160,Tara Reyes,0,0.015,
+VN-1161,Maya Reyes,0,0.2469,Tenure: 5 mo; Payment method: Credit card (auto); Contract: Month-to-month
+VN-1162,Nina Fischer,0,0.1536,Payment method: Credit card (auto); Tech support: No; Support tickets (90d): 2
+VN-1163,Dev Khan,1,0.7747,Late payments (6m): 6; Support tickets (90d): 3; Monthly bill: $82.36
+VN-1164,Mateo Ali,0,0.2031,Support tickets (90d): 3; Tech support: No; Monthly bill: $77.89
+VN-1165,Ethan Rossi,0,0.1469,Late payments (6m): 2; Tenure: 9 mo; Tech support: No
+VN-1166,Felix Larsen,0,0.3433,Tenure: 10 mo; Monthly bill: $84.22; Payment method: Credit card (auto)
+VN-1167,Nina Reyes,1,0.4511,Tenure: 9 mo; Contract: Month-to-month; Tech support: No
+VN-1168,Owen Rossi,1,0.0832,Late payments (6m): 2; Monthly bill: $86.42
+VN-1169,Chloe Rossi,0,0.4049,Contract: Month-to-month; Tech support: No
+VN-1170,Ira Ali,0,0.1479,Monthly bill: $84.27; Contract: Month-to-month
+VN-1171,Aarav Reyes,1,0.625,Last login: 38 days ago; Payment method: Credit card (auto); Contract: Month-to-month
+VN-1172,Ruth Meyer,0,0.4253,Late payments (6m): 3; Tenure: 11 mo; Contract: Month-to-month
+VN-1173,Dev Sharma,0,0.6532,Support tickets (90d): 3; Tenure: 12 mo; Contract: Month-to-month
+VN-1174,Felix Okafor,0,0.0351,
+VN-1175,Priya Ito,1,0.5027,Late payments (6m): 4; Tech support: No; Support tickets (90d): 2
+VN-1176,Elena Petrov,0,0.1312,Last login: 42 days ago; Monthly bill: $92.87; Support tickets (90d): 2
+VN-1177,Chloe Nguyen,0,0.0421,Monthly bill: $81.10; Tech support: No
+VN-1178,Liam Sharma,0,0.1518,Late payments (6m): 2; Tech support: No
+VN-1179,Leah Silva,1,0.317,Late payments (6m): 2; Contract: Month-to-month; Tech support: No
+VN-1180,Hana Petrov,0,0.1551,Tech support: No; Tenure: 17 mo
+VN-1181,Jonas Bakshi,1,0.203,Support tickets (90d): 3; Last login: 22 days ago; Contract: Month-to-month
+VN-1182,Jonas Novak,0,0.16,Tenure: 8 mo; Late payments (6m): 2; Tech support: No
+VN-1183,Sana Rossi,1,0.4716,Late payments (6m): 2; Contract: Month-to-month; Tech support: No
+VN-1184,Maya Meyer,0,0.5264,Late payments (6m): 3; Tenure: 7 mo; Contract: Month-to-month
+VN-1185,Liam Ali,0,0.0504,Tech support: No; Monthly bill: $74.33
+VN-1186,Sana Ito,0,0.1535,Late payments (6m): 2; Tech support: No
+VN-1187,Jonas Larsen,0,0.2321,Payment method: Credit card (auto); Tech support: No; Support tickets (90d): 2
+VN-1188,Aarav Silva,0,0.1067,Late payments (6m): 2; Last login: 16 days ago
+VN-1189,Leah Meyer,1,0.715,Last login: 42 days ago; Tenure: 12 mo; Tech support: No
+VN-1190,Hana Sharma,0,0.0913,Contract: Month-to-month; Tech support: No
+VN-1191,Chloe Meyer,0,0.4702,Support tickets (90d): 3; Tenure: 10 mo; Payment method: Credit card (auto)
+VN-1192,Mateo Khan,1,0.3674,Contract: Month-to-month; Tech support: No; Support tickets (90d): 2
+VN-1193,Leah Dhillon,0,0.0346,
+VN-1194,Anika Mehta,0,0.0449,Tech support: No
+VN-1195,Zara Ali,0,0.0396,Tech support: No
+VN-1196,Aarav Larsen,0,0.2172,Payment method: Credit card (auto); Monthly bill: $81.15; Tech support: No
+VN-1197,Kian Sharma,1,0.748,Late payments (6m): 5; Last login: 28 days ago; Monthly bill: $82.38
+VN-1198,Ira Bakshi,0,0.0402,Tech support: No; Support tickets (90d): 2
+VN-1199,Aarav Mehta,0,0.4477,Support tickets (90d): 3; Tenure: 9 mo; Contract: Month-to-month
+VN-1200,Omar Nguyen,0,0.1535,Support tickets (90d): 3; Tech support: No
+VN-1201,Anika Gill,1,0.371,Support tickets (90d): 3; Payment method: Credit card (auto); Contract: Month-to-month
+VN-1202,Arjun Rossi,0,0.0455,Contract: Month-to-month
+VN-1203,Liam Nguyen,0,0.265,Payment method: Credit card (auto); Tech support: No; Monthly bill: $75.76
+VN-1204,Sofia Rossi,0,0.1483,Contract: Month-to-month; Tech support: No
+VN-1205,Dev Ito,1,0.657,Tenure: 4 mo; Support tickets (90d): 3; Last login: 23 days ago
+VN-1206,Priya Dhillon,0,0.079,Last login: 26 days ago; Monthly bill: $73.34
+VN-1207,Maya Bakshi,0,0.6174,Last login: 29 days ago; Tenure: 10 mo; Contract: Month-to-month
+VN-1208,Elena Novak,0,0.0351,Payment method: Credit card (auto)
+VN-1209,Sana Bakshi,0,0.0194,Contract: Month-to-month
+VN-1210,Sana Bose,0,0.3178,Last login: 24 days ago; Contract: Month-to-month; Tech support: No
+VN-1211,Noah Dhillon,1,0.2302,Contract: Month-to-month; Tenure: 13 mo; Tech support: No
+VN-1212,Meera Petrov,1,0.4326,Contract: Month-to-month; Tech support: No; Last login: 17 days ago
+VN-1213,Jonas Ito,0,0.2487,Last login: 32 days ago; Contract: Month-to-month; Tech support: No
+VN-1214,Maya Novak,0,0.1441,Monthly bill: $84.61; Tech support: No; Support tickets (90d): 2
+VN-1215,Anika Nguyen,1,0.4017,Contract: Month-to-month; Tech support: No; Last login: 17 days ago
+VN-1216,Tariq Dhillon,0,0.2568,Late payments (6m): 2; Payment method: Credit card (auto); Contract: Month-to-month
+VN-1217,Hana Okafor,0,0.1463,Contract: Month-to-month; Support tickets (90d): 2; Monthly bill: $74.32
+VN-1218,Liam Meyer,0,0.1269,Contract: Month-to-month; Tech support: No; Support tickets (90d): 2
+VN-1219,Chloe Petrov,0,0.0585,Late payments (6m): 2; Tech support: No
+VN-1220,Owen Ito,0,0.0754,Contract: Month-to-month; Tenure: 14 mo
+VN-1221,Mateo Meyer,0,0.0123,
+VN-1222,Ruth Bose,0,0.4005,Contract: Month-to-month; Monthly bill: $80.54; Tenure: 14 mo
+VN-1223,Arjun Mehta,0,0.1615,Late payments (6m): 3; Contract: Month-to-month; Tenure: 17 mo
+VN-1224,Zara Meyer,0,0.2933,Contract: Month-to-month; Tech support: No; Monthly bill: $78.23
+VN-1225,Jonas Bose,0,0.625,Support tickets (90d): 5; Contract: Month-to-month; Monthly bill: $81.46
+VN-1226,Tariq Bakshi,0,0.1367,Payment method: Credit card (auto); Tech support: No; Support tickets (90d): 2
+VN-1227,Liam Dhillon,0,0.2701,Contract: Month-to-month; Tech support: No; Monthly bill: $73.79
+VN-1228,Dev Ali,0,0.494,Late payments (6m): 3; Last login: 21 days ago; Contract: Month-to-month
+VN-1229,Ruth Gill,0,0.5486,Tenure: 6 mo; Payment method: Credit card (auto); Contract: Month-to-month
+VN-1230,Lucas Meyer,1,0.26,Payment method: Credit card (auto); Tech support: No; Support tickets (90d): 2
+VN-1231,Sana Novak,0,0.1203,Last login: 66 days ago
+VN-1232,Kabir Larsen,1,0.4197,Payment method: Credit card (auto); Contract: Month-to-month; Tech support: No
+VN-1233,Hana Nguyen,0,0.2453,Tenure: 2 mo; Payment method: Credit card (auto); Contract: Month-to-month
+VN-1234,Kabir Meyer,1,0.1263,Late payments (6m): 2; Monthly bill: $82.01
+VN-1235,Nina Dhillon,0,0.0332,Payment method: Credit card (auto); Tech support: No
+VN-1236,Lucas Ito,1,0.3627,Monthly bill: $83.69; Contract: Month-to-month; Last login: 18 days ago
+VN-1237,Anika Bose,0,0.1122,Contract: Month-to-month; Tech support: No; Support tickets (90d): 2
+VN-1238,Dev Dhillon,1,0.5769,Last login: 38 days ago; Contract: Month-to-month; Tech support: No
+VN-1239,Kabir Dhillon,0,0.2303,Last login: 34 days ago; Contract: Month-to-month; Tenure: 17 mo
+VN-1240,Sofia Okafor,0,0.2859,Tenure: 6 mo; Monthly bill: $89.21; Contract: Month-to-month
+VN-1241,Noah Sharma,0,0.334,Payment method: Credit card (auto); Contract: Month-to-month; Tech support: No
+VN-1242,Tara Ito,0,0.4729,Support tickets (90d): 3; Monthly bill: $84.72; Payment method: Credit card (auto)
+VN-1243,Mateo Larsen,0,0.0456,Contract: Month-to-month; Tenure: 18 mo
+VN-1244,Ruth Bakshi,0,0.0849,Tech support: No
+VN-1245,Chloe Costa,0,0.1592,Tech support: No; Monthly bill: $80.56; Support tickets (90d): 2
+VN-1246,Elena Okafor,0,0.7159,Tenure: 6 mo; Late payments (6m): 2; Last login: 22 days ago
+VN-1247,Jonas Petrov,0,0.231,Tenure: 12 mo; Payment method: Credit card (auto); Contract: Month-to-month
+VN-1248,Ethan Dhillon,0,0.0331,Contract: Month-to-month
+VN-1249,Kabir Silva,1,0.2612,Late payments (6m): 4; Tech support: No; Last login: 17 days ago
+VN-1250,Owen Ali,0,0.0391,Monthly bill: $87.35; Support tickets (90d): 2
+VN-1251,Ruth Mehta,1,0.283,Tenure: 10 mo; Payment method: Credit card (auto); Contract: Month-to-month
+VN-1252,Arjun Khan,0,0.5609,Late payments (6m): 3; Tenure: 13 mo; Tech support: No
+VN-1253,Tariq Nguyen,0,0.3038,Support tickets (90d): 3; Monthly bill: $83.35; Tech support: No
+VN-1254,Arjun Ali,1,0.2593,Tenure: 7 mo; Contract: Month-to-month
+VN-1255,Elena Khan,0,0.2566,Last login: 33 days ago; Payment method: Credit card (auto); Tech support: No
+VN-1256,Sana Larsen,0,0.1436,Payment method: Credit card (auto); Contract: Month-to-month; Tenure: 19 mo
+VN-1257,Omar Mehta,0,0.3014,Late payments (6m): 2; Payment method: Credit card (auto); Contract: Month-to-month
+VN-1258,Zara Larsen,1,0.0932,Tech support: No
+VN-1259,Anika Ali,0,0.0493,Contract: Month-to-month; Tenure: 18 mo
+VN-1260,Felix Novak,1,0.2416,Last login: 25 days ago; Payment method: Credit card (auto); Monthly bill: $81.27
+VN-1261,Maya Ito,0,0.1452,Support tickets (90d): 3; Tech support: No; Monthly bill: $73.16
+VN-1262,Ruth Sharma,0,0.0135,
+VN-1263,Sana Dhillon,0,0.2103,Tenure: 10 mo; Contract: Month-to-month; Tech support: No
+VN-1264,Jonas Reyes,1,0.5726,Last login: 31 days ago; Contract: Month-to-month; Tech support: No
+VN-1265,Elena Mehta,0,0.0735,Tech support: No
+VN-1266,Dev Silva,0,0.2247,Monthly bill: $85.08; Last login: 22 days ago; Payment method: Credit card (auto)
+VN-1267,Lucas Gill,0,0.007,Monthly bill: $73.67
+VN-1268,Anika Ito,0,0.2652,Tenure: 7 mo; Tech support: No
+VN-1269,Elena Ali,0,0.0769,Last login: 17 days ago
+VN-1270,Lucas Silva,0,0.2225,Contract: Month-to-month; Tech support: No; Tenure: 14 mo
+VN-1271,Liam Khan,1,0.2701,Contract: Month-to-month; Tech support: No; Last login: 18 days ago
+VN-1272,Elena Bakshi,0,0.3655,Support tickets (90d): 3; Monthly bill: $84.29; Payment method: Credit card (auto)
+VN-1273,Maya Ali,0,0.1141,Last login: 25 days ago; Tenure: 11 mo; Monthly bill: $73.70
+VN-1274,Maya Gill,1,0.2,Late payments (6m): 3; Contract: Month-to-month; Tenure: 17 mo
+VN-1275,Tariq Larsen,0,0.0814,Tech support: No
+VN-1276,Mateo Silva,0,0.3603,Monthly bill: $83.26; Payment method: Credit card (auto); Contract: Month-to-month
+VN-1277,Tariq Fischer,1,0.2317,Payment method: Credit card (auto); Contract: Month-to-month; Tech support: No
+VN-1278,Jonas Ali,1,0.1745,Payment method: Credit card (auto); Tech support: No
+VN-1279,Hana Fischer,1,0.233,Monthly bill: $82.60; Contract: Month-to-month; Support tickets (90d): 2
+VN-1280,Meera Mehta,0,0.1406,Tenure: 10 mo; Contract: Month-to-month
+VN-1281,Kian Okafor,1,0.2163,Monthly bill: $96.87; Support tickets (90d): 3; Contract: Month-to-month
+VN-1282,Tariq Okafor,0,0.1747,Support tickets (90d): 5; Tenure: 19 mo
+VN-1283,Ruth Costa,0,0.8122,Support tickets (90d): 4; Tenure: 10 mo; Monthly bill: $84.79
+VN-1284,Omar Ali,1,0.5234,Tenure: 12 mo; Contract: Month-to-month; Tech support: No
+VN-1285,Liam Gill,0,0.4101,Tenure: 4 mo; Monthly bill: $88.50; Contract: Month-to-month
+VN-1286,Elena Bose,0,0.1599,Tenure: 7 mo; Payment method: Credit card (auto); Tech support: No
+VN-1287,Priya Bakshi,0,0.4825,Tenure: 6 mo; Contract: Month-to-month; Tech support: No
+VN-1288,Sofia Meyer,0,0.2089,Monthly bill: $89.93; Contract: Month-to-month
+VN-1289,Kian Khan,1,0.6195,Last login: 28 days ago; Tenure: 12 mo; Contract: Month-to-month
+VN-1290,Kabir Mehta,0,0.1929,Contract: Month-to-month; Tech support: No
+VN-1291,Liam Rossi,0,0.0603,Monthly bill: $81.47
+VN-1292,Tara Costa,1,0.4161,Tenure: 6 mo; Contract: Month-to-month; Tech support: No
+VN-1293,Arjun Bakshi,0,0.0802,Payment method: Credit card (auto); Tech support: No; Tenure: 19 mo
+VN-1294,Ira Dhillon,0,0.1908,Late payments (6m): 3; Last login: 29 days ago; Tech support: No
+VN-1295,Leah Fischer,0,0.2063,Tech support: No; Tenure: 17 mo
+VN-1296,Priya Novak,0,0.1814,Tenure: 11 mo; Payment method: Credit card (auto); Tech support: No
+VN-1297,Ethan Bose,1,0.7632,Last login: 31 days ago; Support tickets (90d): 3; Payment method: Credit card (auto)
+VN-1298,Jonas Rossi,0,0.0842,Contract: Month-to-month
+VN-1299,Ethan Mehta,1,0.413,Payment method: Credit card (auto); Contract: Month-to-month; Tech support: No
+VN-1300,Liam Ito,1,0.2223,Monthly bill: $85.88; Contract: Month-to-month; Tech support: No
